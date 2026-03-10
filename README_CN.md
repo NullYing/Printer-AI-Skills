@@ -79,7 +79,13 @@ printer-ai print file.pdf --options '{"dmCopies":2,"dmPaperSize":9,"dmColor":2}'
 
 MIT License
 
+## 另请参阅
+
+### [Printer AI MCP](https://github.com/NullYing/printer-ai-mcp)
+
+需要一个持续运行的 **MCP 服务器**而不是 CLI 工具？可以看看 [printer-ai-mcp](https://github.com/NullYing/printer-ai-mcp)。它基于 FastMCP 构建，AI 助手通过 HTTP 连接，支持 Docker 部署。适合常驻服务或多客户端场景。
+
 ## 相关链接
 
-- [原 MCP 版本](https://github.com/NullYing/printer-ai-mcp)
+- [Printer AI MCP（服务器版本）](https://github.com/NullYing/printer-ai-mcp)
 - [CUPS 文档](https://www.cups.org/)

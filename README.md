@@ -87,7 +87,13 @@ The AI will follow the workflow defined in `SKILL.md` to operate your printers.
 
 MIT License
 
-## Related
+## See Also
 
-- [Original MCP version](https://github.com/NullYing/printer-ai-mcp)
+### [Printer AI MCP](https://github.com/NullYing/printer-ai-mcp)
+
+Need a persistent **MCP server** instead of a CLI tool? Check out [printer-ai-mcp](https://github.com/NullYing/printer-ai-mcp). It runs a FastMCP-based server that AI assistants connect to over HTTP, with Docker deployment support. Best suited for always-on environments or multi-client setups.
+
+## Related Links
+
+- [Printer AI MCP (server version)](https://github.com/NullYing/printer-ai-mcp)
 - [CUPS Documentation](https://www.cups.org/)
